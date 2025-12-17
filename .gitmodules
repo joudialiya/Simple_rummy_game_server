@@ -1,0 +1,3 @@
+[submodule "client"]
+  path = client
+  url = https://github.com/joudialiya/Simple_rummy_game_client.git
